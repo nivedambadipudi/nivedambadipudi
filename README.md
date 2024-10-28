@@ -2,5 +2,5 @@ Hello !!! I am Nived. I started coding when I was in my early teenage and have b
 
 OS: Linux, Mac and Windows 10 <br/>
 Languages: Java and Python <br/>
-Jupiter notebooks | ArcGIS Products | Data Classification | AWS | Image Processing
+Jupiter notebooks | PyTorch | Tensor Flow | ArcGIS Products | Data Classification | AWS | Image Processing
 
